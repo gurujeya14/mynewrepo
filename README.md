@@ -1,1 +1,2 @@
 # mynewrepo
+Hello Git hub
